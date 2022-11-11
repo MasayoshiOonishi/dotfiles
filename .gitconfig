@@ -12,3 +12,5 @@
 [user]
 	name = MasayoshiOonishi
 	email = onishi.masayoshi@itfllc.co.jp
+[safe]
+  directory = *
