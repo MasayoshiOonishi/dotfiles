@@ -1,0 +1,14 @@
+[credential "https://github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
+[credential "https://gist.github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
+[alias]
+  co = checkout
+  br = branch
+  st = status
+
+[user]
+	name = MasayoshiOonishi
+	email = onishi.masayoshi@itfllc.co.jp
